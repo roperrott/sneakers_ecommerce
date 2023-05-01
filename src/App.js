@@ -1,7 +1,7 @@
-import Header from "./components/Header";
+import PageContent from "./components/PageContent";
 import './index.css';
 function App(){
-    return (<Header/>)
+    return (<PageContent/>)
 }
 
 export default App;
